@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davepj007
+- 👀 I’m interested in projects related to software engineering, but also related to electronic engineering
+- 🌱 I’m currently studtying Computer Engineering at Instituto Tecnológico de Costa Rica, I'm currently at 60% of my carreer and going on.
+- 💞️ I’m looking to collaborate on projects related to my study field.
+- 📫 You can contact me at my email: davepj07@gmail.com
